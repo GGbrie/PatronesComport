@@ -1,4 +1,3 @@
-
 class Noticia {
     private String titulo;
     private String contenido;
