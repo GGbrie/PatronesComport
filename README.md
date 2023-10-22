@@ -3,8 +3,7 @@ Que tal Ingeniero. Quería informarle que, después de considerar todas las opci
 Si tiene alguna pregunta o inquietud, no dude en preguntar.
 
 Presentaciones:
-1. Cristian Xavier Reyes Valenzuela: 1.1 - https://docs.google.com/presentation/d/1H5ie3oZFIjYyDf0RSMBS4qP5T8J
-9iqmk/edit?usp=sharing&ouid=111239845127583703398&rtpof=true&sd=true
+1. Cristian Xavier Reyes Valenzuela: 1.1 - https://docs.google.com/presentation/d/1H5ie3oZFIjYyDf0RSMBS4qP5T8J9iqmk/edit?usp=sharing&ouid=111239845127583703398&rtpof=true&sd=true
 
 2.Jose Carlos Cabrera Sandoval: 2.1 - Iterator y Mediator: https://docs.google.com/presentation/d/1QlwrYiOHznKPe6i6YfHoI3fSGwB8ILZv/edit?usp=share_link&ouid=116668140028349240349&rtpof=true&sd=true
 
